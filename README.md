@@ -1,0 +1,2 @@
+# BankCampaigns
+ This repository contains a data science project focused on bank direct marketing campaigns using the Bank Marketing Dataset from the UCI Machine Learning Repository. The project explores classification models like Logistic Regression, K Nearest Neighbors, Decision Trees, and Support Vector Machines to predict customer subscription to term deposits. It includes data preprocessing, model evaluation, and comparison of performance metrics. Insights and visualizations generated from the analysis are provided for better understanding.
